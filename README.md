@@ -1,5 +1,5 @@
 # NLP
-This is sample project about natural language processing. 
+This is sample project about natural language processing using BERT model.
 Project Objectives
 1. Train a Sentiment Analysis Model
 2. Evaluate Model Performance on English Data
